@@ -1,0 +1,5 @@
+C:\project\EngineeringApp\reverseString\bin\Debug\reverseString.exe
+C:\project\EngineeringApp\reverseString\bin\Debug\reverseString.pdb
+C:\project\EngineeringApp\reverseString\obj\Debug\reverseString.exe
+C:\project\EngineeringApp\reverseString\obj\Debug\reverseString.pdb
+C:\project\EngineeringApp\reverseString\obj\Debug\reverseString.csprojResolveAssemblyReference.cache
